@@ -36,4 +36,4 @@ You can delete all app data at any time by deleting Dayfare from your device. Yo
 
 ## Contact
 
-Questions: mart0605@gmail.com
+Questions: cardpilled@gmail.com
