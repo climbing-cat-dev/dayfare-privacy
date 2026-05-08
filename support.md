@@ -14,7 +14,7 @@ When reporting a bug, please include:
 ## Frequently asked questions
 
 ### Where is my data stored?
-All of your trips, expenses, photos, and notes are stored locally on your device. Dayfare has no servers and does not transmit your data anywhere. If you have iCloud Backup enabled, your data is included in your encrypted device backup managed by Apple.
+All of your trips, expenses, photos, and notes are stored locally on your device and are never transmitted to any server. The only exception is anonymous, opt-in product-analytics events sent to PostHog (see the [privacy policy](https://climbing-cat-dev.github.io/dayfare-privacy/) for details). If you have iCloud Backup enabled, your data is included in your encrypted device backup managed by Apple.
 
 ### How do I back up or move my data to a new phone?
 Open **Settings** inside Dayfare and use **Export Backup** to save a `.zip` file. On your new device, open the same backup file from the Files app and Dayfare will offer to restore it on next launch.
